@@ -36,10 +36,10 @@ const portfolio = [
     },
     {
         name: "Amp My Fitness",
-        description: "Workout app that provides workout videos via YouTube and exercise demos categorized by body part",
+        description: "Workout app that provides workout videos via YouTube and exercise demos categorized by body part.",
         image: "https://i.pcmag.com/imagery/articles/06A0yVqekWQSdRVJzFou1Ht-22.fit_scale.size_2056x1156.v1575682800.jpg",
-        githubLink: "",
-        deployed: "",
+        githubLink: "https://github.com/evcarone/ampmyfitness.git",
+        deployed: "https://hidden-caverns-01936.herokuapp.com/",
     },
 ]
 

@@ -126,7 +126,7 @@ export default function HomePage() {
                                         <Typography gutterBottom variant="h5" component="h2">
                                             {result.name}
                                         </Typography>
-                                        <Typography>
+                                        <Typography style={{ fontSize: "13px" }}>
                                             {result.description}
                                         </Typography>
                                     </CardContent>
